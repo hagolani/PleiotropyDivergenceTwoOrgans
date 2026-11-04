@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Code and data for: <ARTICLE TITLE>"
+authors:
+  - family-names: Hagolani
+    given-names: Pascal
+  # add co-authors
+doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  title: "<ARTICLE TITLE>"
+  authors:
+    - family-names: Hagolani
+      given-names: Pascal
+  journal: "<JOURNAL>"
+  year: 2026
