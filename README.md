@@ -16,7 +16,7 @@ repository reproduce all figures and supplementary tables of the article.
 ```
 analysis/     R scripts, one per figure group, plus the table builder
 data/raw/     simulation output (download from Zenodo, see data/raw/README.md)
-data/processed/  files read by the analysis scripts
+data/processed/  files read by the analysis scripts (download from Zenodo, see data/raw/README.md)
 simulation/   developmental model and evolutionary simulations
 output/       created by the scripts: figures, statistics, tables
 ```
