@@ -2,7 +2,7 @@
 
 Code and data for:
 
-Pascal Hagolani,Marie Sémon, Guillaume Beslon, Sophie Pantalacci. Pleiotropy promotes divergence when simulating the development and evolution of two interacting organs. *<JOURNAL>*. DOI: <DOI>
+Pascal Hagolani, Marie Sémon, Guillaume Beslon, Sophie Pantalacci. Pleiotropy promotes divergence when simulating the development and evolution of two interacting organs. *<JOURNAL>*. DOI: <DOI>
 
 We couple a developmental model of tooth morphogenesis to an evolutionary
 algorithm in which upper and lower teeth evolve under selection for occlusion.
